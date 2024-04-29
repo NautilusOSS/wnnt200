@@ -1,5 +1,5 @@
 "reach 0.1";
 
-import { NT200 } from "./wNT200.rsh";
+import { NNT200 } from "./wNNT200.rsh";
 
-export const wNT200 = NT200();
+export const wNNT200 = NT200();
